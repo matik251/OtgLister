@@ -3,4 +3,6 @@
 # OtgLister
  OtgLister is a Android service app meant to check all devices that are connected through USB port. USB OTG allows for plugging in many devices which are listed in this app.
 
- <img src="https://github.com/matik251/OtgLister/blob/master/OtgListerScreenshot.jpg?raw=true" width="60%" height="auto" align="center" >
+ <p align="center">
+  <img src="https://github.com/matik251/OtgLister/blob/master/OtgListerScreenshot.jpg?raw=true" width="60%" height="auto" 
+</p>
